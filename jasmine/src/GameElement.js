@@ -1,0 +1,3 @@
+class GameElement {
+    render(ctx) { };
+}
